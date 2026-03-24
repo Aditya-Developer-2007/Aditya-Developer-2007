@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h3 align="center">A passionate Web Developer 🚀</h3>
 
-<!--
-**Aditya-Developer-2007/Aditya-Developer-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me:
+- 🔭 I’m currently working on React projects  
+- 🌱 Learning Backend & AI  
+- 💬 Ask me about Web Dev  
+- ⚡ Fun fact: I love building cool UI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+</p>
+
+---
+
+### 🚀 Tech Stack:
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+---
+
+### 🔥 Streak Stats:
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
