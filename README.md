@@ -5,26 +5,18 @@
 </p>
 
 <p align="center">
-  Building clean, scalable, and user-focused web applications with a strong emphasis on design and performance.
+  Building clean, scalable, and user-focused web applications with a strong focus on performance and design.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* Full stack developer focused on modern web technologies
-* Currently working on React-based projects
-* Learning backend development and AI integration
-* Interested in UI/UX and building premium user experiences
-* Focused on continuous improvement and real-world project building
-
----
-
-## 🌐 Connect
-
-* LinkedIn: https://linkedin.com/in/aditya-saini-a98a19367
-* Email: [aditya.saini2602@gmail.com](mailto:aaditya.saini2602@gmail.com)
-* Portfolio: https://aadyysportfolio.netlify.app/
+* Full stack developer working with modern web technologies
+* Focused on building real-world React applications
+* Currently learning backend systems and AI integration
+* Strong interest in UI/UX and clean design
+* Committed to continuous improvement and practical development
 
 ---
 
@@ -36,36 +28,27 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditya-Developer-2007&show_icons=true&theme=default"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Developer-2007&layout=compact&theme=default"/>
-</p>
-
----
-
-## 🔥 Activity
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Aditya-Developer-2007&theme=default"/>
-</p>
-
----
-
-## 🚀 Projects
+## 🚀 Work & Projects
 
 * Portfolio Website → https://aadyysportfolio.netlify.app/
-* Working on full stack applications and improving backend skills
+* Developing full stack applications with focus on scalability
+* Exploring backend architecture and API design
+
+---
+
+## 🌐 Connect
+
+* LinkedIn: https://linkedin.com/in/aditya-saini-a98a19367
+* Email: [aditya.saini2602@gmail.com](mailto:aditya.saini2602@gmail.com)
 
 ---
 
 ## 🎯 Goal
 
-To build high-quality, scalable products and grow into a professional full stack developer capable of delivering real-world solutions.
+To build high-quality, scalable web products and grow into a professional developer capable of solving real-world problems.
 
 ---
 
 <p align="center">
-  <sub>Consistent progress beats perfection.</sub>
+  <sub>Focused. Consistent. Improving every day.</sub>
 </p>
