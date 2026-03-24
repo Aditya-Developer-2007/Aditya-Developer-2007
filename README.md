@@ -23,7 +23,7 @@
 ## 🌐 Connect
 
 * LinkedIn: https://linkedin.com/in/aditya-saini-a98a19367
-* Email: [aditya.saini2602@gmail.com](mailto:aditya.saini2602@gmail.com)
+* Email: [aditya.saini2602@gmail.com](mailto:aaditya.saini2602@gmail.com)
 * Portfolio: https://aadyysportfolio.netlify.app/
 
 ---
