@@ -28,11 +28,66 @@
 
 ---
 
+## 📈 Development Activity
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🧠 Focus
+
+Full stack development
+Backend + AI learning
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚡ Stack Usage
+
+React • Node • MongoDB
+JavaScript ecosystem
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀 Growth
+
+Consistent building
+Improving with projects
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🟩 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya-Developer-2007/Aditya-Developer-2007/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🧩 Current Phase
+
+<p align="center">
+  <b>Design → Build → Optimize → Scale</b>
+</p>
+
+<p align="center">
+  Moving from UI-focused work to full stack production-ready applications.
+</p>
+
+---
+
 ## 🚀 Work & Projects
 
 * Portfolio Website → https://aadyysportfolio.netlify.app/
-* Developing full stack applications with focus on scalability
-* Exploring backend architecture and API design
+* Building scalable full stack applications
+* Exploring backend architecture and APIs
 
 ---
 
