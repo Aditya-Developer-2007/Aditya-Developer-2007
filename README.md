@@ -5,7 +5,7 @@
 ### Full Stack Web Developer • React • Node.js • MongoDB • UI/UX
 
 <p>
-  <a href="https://aadyysportfolio.netlify.app/" target="_blank">
+  <a href="https://aadyysportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:aaditya.saini2602@gmail.com">
@@ -36,41 +36,34 @@ I'm a passionate developer from **India** who enjoys turning ideas into clean, s
 
 ---
 
-## 🧠 What I Work With
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,java,git,github,aws,figma,ps&perline=8" />
-
-</p>
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditya-developer-2007&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" height="180" alt="GitHub Stats"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-developer-2007&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180" alt="Top Languages"/>
 </p>
 
+---
+
+# 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aditya-developer-2007&hide_border=true&theme=transparent" height="180" alt="GitHub Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=aditya-developer-2007&hide_border=true&theme=transparent" width="700" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+# 📌 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-developer-2007&theme=github-compact&hide_border=true&area=true&custom_title=Aditya%20Saini%27s%20Contribution%20Activity" width="100%" alt="GitHub Activity Graph"/>
-</p>
 
----
+<img src="https://img.shields.io/github/repos/aditya-developer-2007?style=for-the-badge&logo=github&label=Public%20Repositories" alt="Public Repositories"/>
 
-## 🏆 GitHub Achievements
+<img src="https://img.shields.io/github/stars/aditya-developer-2007?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditya-developer-2007&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
+<img src="https://img.shields.io/github/followers/aditya-developer-2007?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+
 </p>
 
 ---
@@ -83,7 +76,7 @@ I'm a passionate developer from **India** who enjoys turning ideas into clean, s
 
 ### 🌱 AgroCure
 
-AI-powered agriculture platform designed to help users with intelligent agricultural insights and solutions.
+AI-powered agriculture platform designed to provide intelligent agricultural insights and solutions.
 
 **Tech:** React • Node.js • Express • MongoDB • AI
 
@@ -93,7 +86,7 @@ AI-powered agriculture platform designed to help users with intelligent agricult
 
 <td width="50%">
 
-### 💻 Portfolio
+### 💻 Personal Portfolio
 
 My personal developer portfolio showcasing my projects, skills, experience and development journey.
 
@@ -109,7 +102,7 @@ My personal developer portfolio showcasing my projects, skills, experience and d
 
 ### 🚀 More Projects
 
-I'm continuously building and experimenting with new ideas across web development, AI and emerging technologies.
+Continuously building and experimenting with new ideas across web development, AI and emerging technologies.
 
 🔗 **[Explore All Repositories →](https://github.com/aditya-developer-2007?tab=repositories)**
 
@@ -119,9 +112,9 @@ I'm continuously building and experimenting with new ideas across web developmen
 
 ### 🧪 Currently Building
 
-New projects are always in progress.
+New projects and experiments are always in progress.
 
-Follow my GitHub to see what I'm currently experimenting with.
+Follow my GitHub to see what I'm currently working on.
 
 🔗 **[Follow My Journey →](https://github.com/aditya-developer-2007)**
 
@@ -159,40 +152,6 @@ Follow my GitHub to see what I'm currently experimenting with.
 
 ---
 
-# 📌 GitHub Highlights
-
-<p align="center">
-
-<img src="https://img.shields.io/github/repos/aditya-developer-2007?style=for-the-badge&logo=github&label=Public%20Repos" alt="Repositories"/>
-
-<img src="https://img.shields.io/github/stars/aditya-developer-2007?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
-
-<img src="https://img.shields.io/github/followers/aditya-developer-2007?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=aditya-developer-2007&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" width="700" alt="Contribution Streak"/>
-
-</p>
-
----
-
-# 📅 My Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-developer-2007&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-
-</p>
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
@@ -215,7 +174,7 @@ Follow my GitHub to see what I'm currently experimenting with.
 
 <div align="center">
 
-### 💭 "Building ideas into experiences, one commit at a time."
+### 💭 Building ideas into experiences, one commit at a time.
 
 <br/>
 
