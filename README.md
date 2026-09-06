@@ -1,23 +1,224 @@
-<h1 align="center">Hi 👋, I'm Aditya Saini</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-developer-2007&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-developer-2007" /> </p>
+# 👋 Hi, I'm Aditya Saini
 
-- 🔭 I’m currently working on [AgroCure](https://sih-26-1-vision.vercel.app/)
+### Full Stack Web Developer • React • Node.js • MongoDB • UI/UX
 
-- 🌱 I’m currently learning **DSA, Web3.0, AI ML, Communication Skills**
-
-- 👨‍💻 All of my projects are available at [https://aadyysportfolio.netlify.app/](https://aadyysportfolio.netlify.app/)
-
-- 💬 Ask me about **React, Frontend, UI UX**
-
-- 📫 How to reach me **aaditya.saini2602@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k7nwHWKsM7rgPoxnyyVyiZKk4PQtlCZW/view?usp=sharing](https://drive.google.com/file/d/1k7nwHWKsM7rgPoxnyyVyiZKk4PQtlCZW/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <a href="https://aadyysportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:aaditya.saini2602@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/aditya-developer-2007">
+    <img src="https://img.shields.io/github/followers/aditya-developer-2007?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=aditya-developer-2007&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate developer from **India** who enjoys turning ideas into clean, scalable and user-focused digital products.
+
+* 🔭 Currently working on **[AgroCure](https://sih-26-1-vision.vercel.app/)**
+* 🌱 Currently learning **DSA, Web3, AI/ML & Communication**
+* 💻 Interested in **Full Stack Development, AI-powered applications & UI/UX**
+* 🎨 I enjoy building interfaces that are both **functional and visually polished**
+* 🧠 Always exploring new technologies and better ways to solve problems
+* 📂 Explore my work at **[aadyysportfolio.netlify.app](https://aadyysportfolio.netlify.app/)**
+* 📄 **[View My Resume](https://drive.google.com/file/d/1k7nwHWKsM7rgPoxnyyVyiZKk4PQtlCZW/view?usp=sharing)**
+
+---
+
+## 🧠 What I Work With
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,java,git,github,aws,figma,ps&perline=8" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-developer-2007&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-developer-2007&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aditya-developer-2007&hide_border=true&theme=transparent" height="180" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-developer-2007&theme=github-compact&hide_border=true&area=true&custom_title=Aditya%20Saini%27s%20Contribution%20Activity" width="100%" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aditya-developer-2007&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌱 AgroCure
+
+AI-powered agriculture platform designed to help users with intelligent agricultural insights and solutions.
+
+**Tech:** React • Node.js • Express • MongoDB • AI
+
+🔗 **[Live Demo](https://sih-26-1-vision.vercel.app/)**
+
+</td>
+
+<td width="50%">
+
+### 💻 Portfolio
+
+My personal developer portfolio showcasing my projects, skills, experience and development journey.
+
+**Tech:** React • JavaScript • CSS
+
+🔗 **[Visit Portfolio](https://aadyysportfolio.netlify.app/)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚀 More Projects
+
+I'm continuously building and experimenting with new ideas across web development, AI and emerging technologies.
+
+🔗 **[Explore All Repositories →](https://github.com/aditya-developer-2007?tab=repositories)**
+
+</td>
+
+<td width="50%">
+
+### 🧪 Currently Building
+
+New projects are always in progress.
+
+Follow my GitHub to see what I'm currently experimenting with.
+
+🔗 **[Follow My Journey →](https://github.com/aditya-developer-2007)**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Technology Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,python,java,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### ☁️ Tools & Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,figma,photoshop" />
+</p>
+
+---
+
+# 📌 GitHub Highlights
+
+<p align="center">
+
+<img src="https://img.shields.io/github/repos/aditya-developer-2007?style=for-the-badge&logo=github&label=Public%20Repos" alt="Repositories"/>
+
+<img src="https://img.shields.io/github/stars/aditya-developer-2007?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+
+<img src="https://img.shields.io/github/followers/aditya-developer-2007?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=aditya-developer-2007&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" width="700" alt="Contribution Streak"/>
+
+</p>
+
+---
+
+# 📅 My Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-developer-2007&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://aadyysportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:aaditya.saini2602@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aditya-developer-2007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💭 "Building ideas into experiences, one commit at a time."
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=120&section=footer"/>
+
+</div>
